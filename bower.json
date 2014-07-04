@@ -1,0 +1,27 @@
+{
+  "name": "algorithm-js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/yangbo/algorithm-js",
+  "authors": [
+    "Bob Yang <bob.yang.dev@gmail.com>"
+  ],
+  "description": "Algorithm visualization.",
+  "main": "index.html",
+  "keywords": [
+    "js",
+    "algorithm",
+    "visualization"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.4.9"
+  }
+}
